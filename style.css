@@ -1,0 +1,8 @@
+body {
+        font-family: "Scoutie Sans", sans-serif;
+}
+
+.navbar {
+          display: flex;
+           gap: 40px;
+}
